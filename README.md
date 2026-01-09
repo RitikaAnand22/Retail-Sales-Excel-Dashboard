@@ -41,7 +41,7 @@ with an assumed growth rate of 8–15% to simulate real business planning scenar
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![Dashboard Overview]
 
 ---
 
